@@ -2,7 +2,7 @@ import warnings
 import torch
 import torch.nn as nn
 from torch.utils.data import DataLoader, Dataset, random_split
-import torchmetrics
+# import torchmetrics
 from torch.utils.tensorboard import SummaryWriter
 
 
